@@ -54,4 +54,4 @@ for (let i = 0; i < bigOrSmallArray.length; i++) {
   }
 }
 
-console.log(`outside loop: ${answers}`)
+console.log(answers)
